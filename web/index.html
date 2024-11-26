@@ -14,28 +14,48 @@
     This is a placeholder for base href that will be replaced by the value of
     the `--base-href` argument provided to `flutter build`.
   -->
-  <base href="$FLUTTER_BASE_HREF">
+
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="A new Flutter project.">
+  <meta name="description" content="Games for free">
 
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="web_demo">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-
+  <meta name="apple-mobile-web-app-title" content="Games for free">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>web_demo</title>
+  <title>Games for free</title>
   <link rel="manifest" href="manifest.json">
+
+
 </head>
 <body>
-  <script src="./flutter_bootstrap.js" async></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16743904668">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-16743904668');
+</script>
+
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('flutter-first-frame', function () {
+      navigator.serviceWorker.register('flutter_service_worker.js?v=3203631292');
+    });
+  }
+</script>
+<script src="main.dart.js" type="application/javascript"></script>
+
+
 </body>
 </html>
