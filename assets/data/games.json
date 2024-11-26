@@ -1,0 +1,342 @@
+{
+  "categories_list": [
+    {
+      "id": 1,
+      "cat_img_url": "https://img.freepik.com/premium-vector/neon-sign-new-game-with-brick-wall-background-vector_118419-4176.jpg?semt=ais_hybrid",
+      "categorie_name": "New Games",
+      "cat_games_url": "https://play526.atmegame.com/online-new-games",
+      "games_list": [
+        {
+          "id": 1,
+          "game_name": "Hexa Match",
+          "image_url": "https://slides.atmegame.com/desktop/6578_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/hexa-match"
+        },
+        {
+          "id": 2,
+          "game_name": "Desert Champion",
+          "image_url": "https://slides.atmegame.com/desktop/6577_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/desert-champion"
+        },
+        {
+          "id": 3,
+          "game_name": "Crossy Traffic",
+          "image_url": "https://slides.atmegame.com/desktop/6583_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/crossy-traffic"
+        },
+        {
+          "id": 4,
+          "game_name": "Happy Popcorn",
+          "image_url": "https://slides.atmegame.com/desktop/6584_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/happy-popcorn"
+        },
+        {
+          "id": 5,
+          "game_name": "Plug it!",
+          "image_url": "https://slides.atmegame.com/desktop/6580_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/plug-it"
+        },
+        {
+          "id": 6,
+          "game_name": "Magic Bubble Fox",
+          "image_url": "https://slides.atmegame.com/desktop/6581_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/magic-bubble-fox"
+        },
+        {
+          "id": 7,
+          "game_name": "Paint The House",
+          "image_url": "https://slides.atmegame.com/desktop/6582_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/paint-the-house"
+        },
+        {
+          "id": 8,
+          "game_name": "Jungle Boy",
+          "image_url": "https://slides.atmegame.com/desktop/6579_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/jungle-boy"
+        },
+        {
+          "id": 9,
+          "game_name": "Brick Breaker Bash",
+          "image_url": "https://slides.atmegame.com/desktop/6576_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/brick-breaker-bash"
+        },
+        {
+          "id": 10,
+          "game_name": "Holi Shooter",
+          "image_url": "https://slides.atmegame.com/desktop/6575_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/holi-shooter"
+        },
+        {
+          "id": 11,
+          "game_name": "Cannon Shot",
+          "image_url": "https://slides.atmegame.com/desktop/6574_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/cannon-shot"
+        },
+        {
+          "id": 12,
+          "game_name": "Space Bubble Hero",
+          "image_url": "https://slides.atmegame.com/desktop/6573_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/space-bubble-hero"
+        },
+        {
+          "id": 13,
+          "game_name": "Chess",
+          "image_url": "https://slides.atmegame.com/desktop/6572_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/chess"
+        },
+        {
+          "id": 14,
+          "game_name": "Battleship Arena",
+          "image_url": "https://slides.atmegame.com/desktop/6571_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/battleship-arena"
+        },
+        {
+          "id": 15,
+          "game_name": "Cricket Championships",
+          "image_url": "https://slides.atmegame.com/desktop/6570_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/cricket-championships"
+        },
+        {
+          "id": 16,
+          "game_name": "Dino Jump",
+          "image_url": "https://slides.atmegame.com/desktop/6567_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/dino-jump"
+        },
+        {
+          "id": 17,
+          "game_name": "Gold Miner",
+          "image_url": "https://slides.atmegame.com/desktop/6566_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/gold-miner"
+        },
+        {
+          "id": 18,
+          "game_name": "Super Pon Goal",
+          "image_url": "https://slides.atmegame.com/desktop/6565_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/super-pon-goal"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "cat_img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBHu2cYfJTt4sJB32W9uSGtlXdlQBmuFjtcw&s",
+      "categorie_name": "Top Games",
+      "cat_games_url": "https://play526.atmegame.com/online-top-games",
+      "games_list": [
+        {
+          "id": 1,
+          "game_name": "CPL Cricket Tournament",
+          "image_url": "https://slides.atmegame.com/desktop/5655_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/cpl-cricket-tournament"
+        },
+        {
+          "id": 2,
+          "game_name": "Brick Breaker Bash",
+          "image_url": "https://slides.atmegame.com/desktop/6576_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/brick-breaker-bash"
+        },
+        {
+          "id": 3,
+          "game_name": "Fruitslasher",
+          "image_url": "https://slides.atmegame.com/desktop/6530_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/fruitslasher"
+        },
+        {
+          "id": 4,
+          "game_name": "Cricket World Cup",
+          "image_url": "https://slides.atmegame.com/desktop/5897_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/cricket-world-cup"
+        },
+        {
+          "id": 5,
+          "game_name": "Tank Defender",
+          "image_url": "https://slides.atmegame.com/desktop/6125_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/eg-tank-defender"
+        },
+        {
+          "id": 6,
+          "game_name": "Zombie Killers",
+          "image_url": "https://slides.atmegame.com/desktop/6108_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/zombie-killers"
+        },
+        {
+          "id": 7,
+          "game_name": "Stud Rider",
+          "image_url": "https://slides.atmegame.com/desktop/4130_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/stud-rider"
+        },
+        {
+          "id": 8,
+          "game_name": "Tap Cricket",
+          "image_url": "https://slides.atmegame.com/desktop/5207_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/tap-cricket"
+        },
+        {
+          "id": 9,
+          "game_name": "Cricket Championships",
+          "image_url": "https://slides.atmegame.com/desktop/6570_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/cricket-championships"
+        },
+        {
+          "id": 10,
+          "game_name": "Solitaire 2",
+          "image_url": "https://slides.atmegame.com/desktop/1909_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/solitaire-2"
+        },
+        {
+          "id": 11,
+          "game_name": "Bubble Shooter Classic",
+          "image_url": "https://slides.atmegame.com/desktop/6094_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/bubble-shooter-classic"
+        },
+        {
+          "id": 12,
+          "game_name": "Pro Cricket Champion",
+          "image_url": "https://slides.atmegame.com/desktop/6176_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/pro-cricket-champion"
+        },
+        {
+          "id": 13,
+          "game_name": "Swat Vs Zombies",
+          "image_url": "https://slides.atmegame.com/desktop/6128_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/eg-swat-wars"
+        },
+        {
+          "id": 14,
+          "game_name": "8 Ball Pool",
+          "image_url": "https://slides.atmegame.com/desktop/6083_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/8-ball-pool-multiplayer"
+        },
+        {
+          "id": 15,
+          "game_name": "Road Racer",
+          "image_url": "https://slides.atmegame.com/desktop/6554_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/road-racer"
+        },
+        {
+          "id": 16,
+          "game_name": "Stack Jump",
+          "image_url": "https://slides.atmegame.com/desktop/6560_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/stack-jump"
+        },
+        {
+          "id": 17,
+          "game_name": "Penalty Challenge",
+          "image_url": "https://slides.atmegame.com/desktop/2453_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/penalty-challenge"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "cat_img_url": "https://www.hindustantimes.com/ht-img/img/2023/08/29/550x309/pexels_1693295846485_1693295853881.jpg",
+      "categorie_name": "Sports Games",
+      "cat_games_url": "https://play526.atmegame.com/online-sports-games",
+      "games_list": [
+        {
+          "id": 1,
+          "game_name": "Stick Golf",
+          "image_url": "https://slides.atmegame.com/desktop/5964_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/stick-golf"
+        },
+        {
+          "id": 2,
+          "game_name": "India Vs Australia",
+          "image_url": "https://slides.atmegame.com/desktop/119_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/india-vs-australia"
+        },
+        {
+          "id": 3,
+          "game_name": "Pool 8 Ball",
+          "image_url": "https://slides.atmegame.com/desktop/6551_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/pool-8-balls"
+        },
+        {
+          "id": 4,
+          "game_name": "Cricket Batter Challenge",
+          "image_url": "https://slides.atmegame.com/desktop/436_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/Cricket-Batter-Challenge"
+        },
+        {
+          "id": 5,
+          "game_name": "India Vs Pakistan",
+          "image_url": "https://slides.atmegame.com/desktop/132_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/india-vs-pakistan"
+        },
+        {
+          "id": 6,
+          "game_name": "Pool 8 Ball",
+          "image_url": "https://slides.atmegame.com/desktop/4495_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/pool-8-ball"
+        },
+        {
+          "id": 7,
+          "game_name": "Oddbods Soccer Challenge",
+          "image_url": "https://slides.atmegame.com/desktop/5705_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/oddbods-soccer-challenge"
+        },
+        {
+          "id": 8,
+          "game_name": "T20 Super Overs",
+          "image_url": "https://slides.atmegame.com/desktop/428_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/t20-super-overs"
+        },
+        {
+          "id": 9,
+          "game_name": "Real Freekick 3D",
+          "image_url": "https://slides.atmegame.com/desktop/429_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/real-freekick-3d"
+        },
+        {
+          "id": 10,
+          "game_name": "Billiard Blitz Challenge",
+          "image_url": "https://slides.atmegame.com/desktop/558_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/billiard-blitz-challenge"
+        },
+        {
+          "id": 11,
+          "game_name": "3D Penalty",
+          "image_url": "https://slides.atmegame.com/desktop/481_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/3d-penalty"
+        },
+        {
+          "id": 12,
+          "game_name": "Classic Bowling",
+          "image_url": "https://slides.atmegame.com/desktop/471_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/classic-bowling"
+        },
+        {
+          "id": 13,
+          "game_name": "Arcade Basketball",
+          "image_url": "https://slides.atmegame.com/desktop/5422_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/arcade-basketball"
+        },
+        {
+          "id": 14,
+          "game_name": "Maya Golf",
+          "image_url": "https://slides.atmegame.com/desktop/262_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/maya-golf"
+        },
+        {
+          "id": 15,
+          "game_name": "Ketchapp Football",
+          "image_url": "https://slides.atmegame.com/desktop/5439_slide.jpg",
+          "game_url": "https://play526.atmegame.com/games/ketchapp-football"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "cat_img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcZjayGXtD_LoyRbGIbbUW_phBXCGg0ZXl7SnTd4j2VzHBi23YlCaD9MM8QjMiWgb2aSc&usqp=CAU",
+      "categorie_name": "Action Games",
+      "cat_games_url": "https://play526.atmegame.com/online-action-games",
+      "games_list": [
+        {
+          "id": 1,
+          "game_name": "Cricket Championships",
+          "image_url": "https://images.crazygames.com/cricket-world-cup/20220517181709/cricket-world-cup-cover?auto=format%2Ccompress&q=45&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+          "game_url": "https://play526.atmegame.com/online-cricket-games"
+        }
+      ]
+    }
+  ]
+}
