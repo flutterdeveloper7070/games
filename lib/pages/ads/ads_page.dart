@@ -22,7 +22,10 @@ class _AdsPageState extends State<AdsPage> {
   @override
   Widget build(BuildContext context) {
     return WillPopScope(
-      onWillPop: () async => false,
+      onWillPop: () async {
+        Navigator.pop(context, true);
+        return false;
+      },
       child: Scaffold(
         body: InAppWebView(
           key: webViewKey,

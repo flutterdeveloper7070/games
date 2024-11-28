@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:web_demo/pages/splash/splash_page.dart';
+import 'package:web_demo/routes/route_helper.dart';
 
 import 'app/constants/app_constant.dart';
 import 'app/helper/scroll_helper.dart';
@@ -22,19 +23,23 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return GestureDetector(
       onTap: () => FocusManager.instance.primaryFocus!.unfocus(),
-      child: GetMaterialApp(
+      child: GetMaterialApp.router(
         title: AppStringConstant.appTitle,
+        theme: ThemeData(useMaterial3: true),
         debugShowCheckedModeBanner: false,
         defaultTransition: Transition.rightToLeft,
         transitionDuration: const Duration(microseconds: 0),
         locale: Get.deviceLocale,
         scrollBehavior: ScrollHelper(),
-        home: SplashPage(),
+        routerDelegate: router.routerDelegate,
+        backButtonDispatcher: router.backButtonDispatcher,
+        routeInformationParser: router.routeInformationParser,
+        routeInformationProvider: router.routeInformationProvider,
         builder: (context, child) {
           return MediaQuery(
             data: MediaQuery.of(context).copyWith(textScaler: TextScaler.noScaling),
             child: Center(
-              child: child  ?? const SizedBox() ,
+              child: child ?? const SizedBox(),
             ),
           );
         },

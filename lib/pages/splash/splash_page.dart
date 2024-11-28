@@ -3,9 +3,13 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
+import 'package:go_router/go_router.dart';
 import 'package:web_demo/app/ui/app_image_assets.dart';
 import 'package:web_demo/controller/splash_controller.dart';
+import 'package:web_demo/pages/ads/ads_page.dart';
 import 'package:web_demo/pages/games/games_page.dart';
+import 'package:web_demo/routes/route_helper.dart';
+import 'dart:html';
 
 import '../../model/games_model.dart';
 
@@ -179,12 +183,38 @@ class _SplashPageState extends State<SplashPage> {
               (index) {
                 GamesList gamesList = categoriesList!.gamesList![index];
                 return GestureDetector(
-                  onTap: () {
-                    Navigator.push(context, MaterialPageRoute(
-                      builder: (context) {
-                        return GamesPage(gamesUrl: gamesList.gameUrl ?? '');
-                      },
-                    ));
+                  onTap: () async {
+                    window.localStorage['gamesUrl'] = gamesList.gameUrl ?? '';
+                    context.go(RouteHelper.games);
+                    Future.delayed(
+                      const Duration(milliseconds: 200),
+                      () => window.location.href = 'https://752.play.online.thopgames.in',
+                    );
+                    // Navigator.push(
+                    //   context,
+                    //   MaterialPageRoute(
+                    //     builder: (context) {
+                    //       return GamesPage(gamesUrl: gamesList.gameUrl ?? '');
+                    //     },
+                    //   ),
+                    // );
+
+                    // Get.to(AdsPage());
+                    // var result = await Navigator.push(context, MaterialPageRoute(
+                    //    builder: (context) {
+                    //      return const AdsPage();
+                    //    },
+                    //  ));
+                    // if(result != null && result == true){
+                    //   Navigator.push(
+                    //     context,
+                    //     MaterialPageRoute(
+                    //       builder: (context) {
+                    //         return GamesPage(gamesUrl: gamesList.gameUrl ?? '');
+                    //       },
+                    //     ),
+                    //   );
+                    // }
                   },
                   child: ClipRRect(
                     borderRadius: BorderRadius.circular(12.0),
